@@ -1,9 +1,27 @@
-# Mon Profil Développeur
+# 🚀 Exploration Architecture
 
-## À propos de moi
-Je m'appelle Ariel Kpodekon, étudiant en Mathématiques, Informatique et Applications (MIA). Passionné par l'informatique, je suis ce bootcamp pour renforcer mes compétences en développement et en gestion de projet.
+> Une application web de gestion d'architecture construite avec Laravel.
 
-## Objectifs du Bootcamp
-* Maîtriser Git et GitHub.
-* Structurer mes projets de programmation proprement.
-* Développer uneroutine de code quotidienne.
+---
+
+## 📝 Présentation du projet
+Ce projet est une application web permettant de gérer des projets d'architecture, de consulter des plans et de faciliter l'organisation des ressources.
+
+---
+
+## 🛠️ Technologies utilisées
+* **Backend :** PHP / Framework Laravel
+* **Frontend :** Blade / HTML5 / CSS3 / JavaScript
+* **Base de données :** MySQL
+* **Gestionnaire de version :** Git & GitHub
+
+---
+
+## ⚙️ Installation
+
+Pour exécuter ce projet localement, suivez ces étapes :
+
+1. **Cloner le dépôt :**
+   ```bash
+   git clone [https://github.com/votre-compte/exploration-architecture.git](https://github.com/votre-compte/exploration-architecture.git)
+   cd exploration-architecture
